@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "nombre_pelicula": "El Padrino",
+      "categoria": "Drama"
+    },
+    {
+      "id": 2,
+      "nombre_pelicula": "Volver al Futuro",
+      "categoria": "Ciencia Ficción"
+    },
+    {
+      "id": 3,
+      "nombre_pelicula": "Forrest Gump",
+      "categoria": "Drama"
+    },
+    {
+      "id": 4,
+      "nombre_pelicula": "Star Wars: Una Nueva Esperanza",
+      "categoria": "Ciencia Ficción"
+    },
+    {
+      "id": 5,
+      "nombre_pelicula": "El Señor de los Anillos: La Comunidad del Anillo",
+      "categoria": "Fantasía"
+    },
+    {
+      "id": 6,
+      "nombre_pelicula": "Jurassic Park",
+      "categoria": "Aventura"
+    },
+    {
+      "id": 7,
+      "nombre_pelicula": "Piratas del Caribe: La Maldición del Perla Negra",
+      "categoria": "Aventura"
+    },
+    {
+      "id": 8,
+      "nombre_pelicula": "Matrix",
+      "categoria": "Acción"
+    },
+    {
+      "id": 9,
+      "nombre_pelicula": "El Rey León",
+      "categoria": "Animación"
+    },
+    {
+      "id": 10,
+      "nombre_pelicula": "La La Land",
+      "categoria": "Musical"
+    },
+    {
+      "id": 11,
+      "nombre_pelicula": "El Silencio de los Inocentes",
+      "categoria": "Suspenso"
+    },
+    {
+      "id": 12,
+      "nombre_pelicula": "Los Vengadores",
+      "categoria": "Acción"
+    },
+    {
+      "id": 13,
+      "nombre_pelicula": "El Quinto Elemento",
+      "categoria": "Ciencia Ficción"
+    },
+    {
+      "id": 14,
+      "nombre_pelicula": "La Lista de Schindler",
+      "categoria": "Drama"
+    },
+    {
+      "id": 15,
+      "nombre_pelicula": "Los Increíbles",
+      "categoria": "Animación"
+    },
+    {
+      "id": 16,
+      "nombre_pelicula": "La Bella y la Bestia",
+      "categoria": "Fantasía"
+    },
+    {
+      "id": 17,
+      "nombre_pelicula": "Mad Max: Furia en el Camino",
+      "categoria": "Acción"
+    },
+    {
+      "id": 18,
+      "nombre_pelicula": "Titanic",
+      "categoria": "Romance"
+    },
+    {
+      "id": 19,
+      "nombre_pelicula": "El Gran Showman",
+      "categoria": "Musical"
+    },
+    {
+      "id": 20,
+      "nombre_pelicula": "Los Juegos del Hambre",
+      "categoria": "Aventura"
+    }
+  ]
+  

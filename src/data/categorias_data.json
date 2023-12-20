@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nombre": "Drama"
+    },
+    {
+        "id": 2,
+        "nombre": "Ciencia Ficción"
+    },
+    {
+        "id": 3,
+        "nombre": "Fantasía"
+    },
+    {
+        "id": 4,
+        "nombre": "Aventura"
+    },
+    {
+        "id": 5,
+        "nombre": "Acción"
+    },
+    {
+        "id": 6,
+        "nombre": "Animación"
+    },
+    {
+        "id": 7,
+        "nombre": "Musical"
+    },
+    {
+        "id": 9,
+        "nombre": "Terror"
+    },
+    {
+        "id": 8,
+        "nombre": "Romance"
+    }
+]
